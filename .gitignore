@@ -1,0 +1,11 @@
+*data
+*idea
+.idea/*
+*log
+.log/*
+project/project/*
+project/target/*
+
+target/*
+*.iml
+*.sh
