@@ -8,4 +8,4 @@ project/target/*
 
 target/*
 *.iml
-*.sh
+copy*
